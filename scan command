@@ -1,2 +1,4 @@
 nmap -A -T4 -p- ip_address
 sudo nmap -sS -p- ip_address
+
+nmap --script vuln ip_address
