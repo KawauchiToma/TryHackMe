@@ -1,1 +1,2 @@
-nmap -A -T5 -p- ipaddress
+nmap -A -T5 -p- ip_address
+sudo nmap -sS -p- ip_address
